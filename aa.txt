@@ -1,0 +1,12 @@
+googletrans
+tldextract
+simpleaudio
+gTTS
+playsound
+deep-translator
+Stop both your FastAPI and Streamlit servers (Ctrl+C in both terminals)
+
+Restart FastAPI server: uvicorn api:app --reload
+
+Restart Streamlit server: streamlit run app.py
+myenv\Scripts\activate 
